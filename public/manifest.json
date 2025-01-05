@@ -1,6 +1,6 @@
 {
-  "short_name": "Music Player",
-  "name": "Music Player PWA",
+  "short_name": "WAV Player",
+  "name": "WAV Player",
   "icons": [
     {
       "src": "favicon.ico",

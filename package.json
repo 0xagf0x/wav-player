@@ -1,7 +1,7 @@
 {
   "name": "music-app",
   "version": "0.1.0",
-  "description": "Music Player",
+  "description": "WAV Player",
   "private": false,
   "homepage": ".",
   "dependencies": {
