@@ -1,7 +1,7 @@
 import localforage from 'localforage';
 
 localforage.config({
-  name: 'Music PWA',
+  name: 'WAV Player',
   storeName: 'db',
 });
 
